@@ -1,0 +1,11 @@
+C:\Users\Yassine\Desktop\WPF\Thermo Control App\Thermo Control App\bin\Debug\Thermo Control App.exe.config
+C:\Users\Yassine\Desktop\WPF\Thermo Control App\Thermo Control App\bin\Debug\Thermo Control App.exe
+C:\Users\Yassine\Desktop\WPF\Thermo Control App\Thermo Control App\bin\Debug\Thermo Control App.pdb
+C:\Users\Yassine\Desktop\WPF\Thermo Control App\Thermo Control App\obj\Debug\Thermo Control App.csproj.AssemblyReference.cache
+C:\Users\Yassine\Desktop\WPF\Thermo Control App\Thermo Control App\obj\Debug\Thermo Control App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yassine\Desktop\WPF\Thermo Control App\Thermo Control App\obj\Debug\Thermo_Control_App.Form1.resources
+C:\Users\Yassine\Desktop\WPF\Thermo Control App\Thermo Control App\obj\Debug\Thermo_Control_App.Properties.Resources.resources
+C:\Users\Yassine\Desktop\WPF\Thermo Control App\Thermo Control App\obj\Debug\Thermo Control App.csproj.GenerateResource.cache
+C:\Users\Yassine\Desktop\WPF\Thermo Control App\Thermo Control App\obj\Debug\Thermo Control App.csproj.CoreCompileInputs.cache
+C:\Users\Yassine\Desktop\WPF\Thermo Control App\Thermo Control App\obj\Debug\Thermo Control App.exe
+C:\Users\Yassine\Desktop\WPF\Thermo Control App\Thermo Control App\obj\Debug\Thermo Control App.pdb
